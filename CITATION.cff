@@ -12,7 +12,14 @@ authors:
   - family-names: Say
     given-names: Jeremiah
     affiliation: "GreenCalculus"
-doi: "10.5281/zenodo.23556720"
+doi: "10.5281/zenodo.23556719"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23556719"
+    description: "Concept DOI (always the latest version)"
+  - type: doi
+    value: "10.5281/zenodo.23556720"
+    description: "Version 2026.10.22"
 version: "2026.10.22"
 date-released: "2026-10-22"
 url: "https://greencalculus.com/guides/is-ai-bad-for-the-environment/"

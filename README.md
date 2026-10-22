@@ -1,6 +1,6 @@
 # AI Environmental Disclosure Scorecard
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23556720.svg)](https://doi.org/10.5281/zenodo.23556720)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23556719.svg)](https://doi.org/10.5281/zenodo.23556719)
 
 What ten AI developers publish about the environmental footprint of their AI: energy, water and carbon per prompt, per image or video, company-wide emissions, and data center efficiency (PUE and WUE). One row per developer and indicator, each traced to the developer's own publication, or marked `not_found` with the date we looked.
 
