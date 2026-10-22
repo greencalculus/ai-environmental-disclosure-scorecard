@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the original publisher of any figure you use."
+type: dataset
+title: "AI Environmental Disclosure Scorecard"
+abstract: >
+  What ten AI developers (Google, OpenAI, Microsoft, Meta, Amazon, Apple, Anthropic, xAI, DeepSeek,
+  Mistral AI) publish about the environmental footprint of their AI: energy, water and carbon per
+  prompt, per image or video, company-wide emissions, and data center PUE and WUE. One row per
+  developer and indicator, with status (measured, stated, modelled, published or not found), value
+  as published, source URL and retrieval date.
+authors:
+  - family-names: Say
+    given-names: Jeremiah
+    affiliation: "GreenCalculus"
+doi: "10.5281/zenodo.23556720"
+version: "2026.10.22"
+date-released: "2026-10-22"
+url: "https://greencalculus.com/guides/is-ai-bad-for-the-environment/"
+repository-code: "https://github.com/greencalculus/ai-environmental-disclosure-scorecard"
+license: CC-BY-4.0
+keywords:
+  - AI environmental impact
+  - AI energy per prompt
+  - AI water usage
+  - AI carbon footprint
+  - environmental disclosure
+  - data centers
